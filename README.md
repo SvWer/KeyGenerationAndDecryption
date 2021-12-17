@@ -13,5 +13,6 @@ Some files for explaining and decrytion in php
 #For Decryption:
 1. Download encrypted file
 2. Add filename of encrypted file in decryptionExample.php in line 6 and 79. (In line 79 it has to be .csv)
-3. Run script for example via command line
+3. Add your passphrase in line 66 (actually it is hello1234)
+4. Run script for example via command line
 	php decryptionExample.php
